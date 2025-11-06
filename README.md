@@ -1,2 +1,2 @@
-!\[Exemple](assets/Exemple.png) 
+!\[Exemple](./assets/Exemple.png)
 
